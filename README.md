@@ -17,4 +17,4 @@ The above software will prepare back-bone of the Kubernetes system. Kubernetes w
 ## Execution sequence 
 ### 1. Downloads
 * Download the oracle virtual box version 6.1 or more from [oracle virtual box site](https://www.virtualbox.org/wiki/Downloads/)
-* Download ubuntu server version 20.10 or more (the .iso image) from [ubuntu site](https://ubuntu.com/download/server/)   
+* Download the ubuntu server version 20.10 or more (the .iso image) from [ubuntu site](https://ubuntu.com/download/server/)   
