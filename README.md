@@ -14,3 +14,7 @@ A powerful laptop that should able to host three full-fledged Ubuntu servers dep
 * Ubuntu server 20.10
 
 The above software will prepare back-bone of the Kubernetes system. Kubernetes will be overlayed on top of that.  
+## Execution sequence 
+1. ### Downloads 
+    * Download the oracle virtual box  6.1 or more from [oracle virtual box site](https://www.virtualbox.org/wiki/Downloads/)
+    * Download ubuntu server 20.10 or more from [ubuntu site](https://ubuntu.com/download/server/)   
