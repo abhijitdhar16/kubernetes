@@ -12,4 +12,5 @@ A powerful laptop that should able to host three full-fledged Ubuntu servers dep
 ## Software Requirement
 * Oracle virtual box version 6.1 or more
 * Ubuntu server 20.10
+
 The above software will prepare back-bone of the Kubernetes system. Kubernetes will be overlayed on top of that.  
