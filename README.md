@@ -22,4 +22,4 @@ The above software will prepare back-bone of the Kubernetes system. Kubernetes w
 After downloading, installation of virtual box should be a very trivial task.
 The installation wizard will guide you through the steps of doing the job. A lot of information about the virtual box is available
 [here](https://www.virtualbox.org/manual/)
-### 3 Creating three new virtual ubuntu servers on the top of virtual box
+### 3. Creating three new virtual ubuntu servers on the top of virtual box
