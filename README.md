@@ -19,4 +19,7 @@ The above software will prepare back-bone of the Kubernetes system. Kubernetes w
 * Download the oracle virtual box version 6.1 or more from [oracle virtual box site](https://www.virtualbox.org/wiki/Downloads/)
 * Download the ubuntu server version 20.10 or more (the .iso image) from [ubuntu site](https://ubuntu.com/download/server/)
 ### 2. Install Virtual Box
+After downloading, installation of virtual box should be a very trivial task.
+The installation wizard will guide you through the steps of doing the job. A lot of information about the virtual box is available
+[here](https://www.virtualbox.org/manual/)
 ### 3 Creating three new virtual ubuntu servers on the top of virtual box
